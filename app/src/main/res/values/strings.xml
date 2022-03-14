@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Headache</string>
+    <string name="string_center">Compteur de mal de crâne</string>
+    <string name="zero">0</string>
+    <string name="add">Ajouter</string>
+    <string name="dis">Diminuer</string>
+    <string name="reset">Reset</string>
+</resources>
